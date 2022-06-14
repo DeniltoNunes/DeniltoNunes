@@ -1,7 +1,7 @@
-### Opa bão? Eu sou Denilton Nunes 
+### Seja bem vindo! Eu sou Denilton Nunes 
 
-- 🌱 Estudando Back-End
-- 🤔 Linguagem de Programação Lua
+- 🌱 No momento estudando Phyton
+- 🤔 Formado em Front-End
 - 📫 Contate-me no email: denilton.nunesm@gmail.com
 - 😄 Pronouns: ele/dele
 
