@@ -1,7 +1,7 @@
 ### Seja bem vindo! Eu sou Denilton Nunes 
 
-- 🌱 No momento estudando Phyton
-- 🤔 Formado em Front-End
+- 🌱 No momento estudando C#
+- 🤔 Desenvolvedor WebJava
 - 📫 Contate-me no email: denilton.nunesm@gmail.com
 - 😄 Pronouns: ele/dele
 
